@@ -1,0 +1,3 @@
+/home/hmx/CLionProjects/myworld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hmx/CLionProjects/myworld/cmake-build-debug/CMakeFiles/myworld.dir
+/home/hmx/CLionProjects/myworld/cmake-build-debug/CMakeFiles/edit_cache.dir
